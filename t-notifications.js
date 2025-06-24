@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         T. Utilities
 // @author       Tr0mb4s
-// @version      2.0.1
+// @version      2.0.2
 // @description  Sends Notifications via selected channels for both captcha and incoming commands
 // @match        https://*.tribalwars.com.pt/*
 // @icon         https://i.ibb.co/ZRBC9VsX/T-notifications.png
